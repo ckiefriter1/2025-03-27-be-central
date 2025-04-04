@@ -63,7 +63,7 @@ public class Operations {
 		System.out.println(age);
 		age++;
 		System.out.println(age);
-		age -= 1;          // Variation assignment/arithmetic operation (subtraction) combined using -=
+		age -= 5;          // Variation assignment/arithmetic operation (subtraction) combined using -=
 		System.out.println(age);
 		age--;
 		System.out.println(age);
