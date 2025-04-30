@@ -32,10 +32,10 @@ public class MethodDemo3 {
 	
 	}
 	
-	public static int sumTwoNumsReturnResult (int number1, int number2) {
+	public static int sumTwoNumsReturnResult (int num1, int num2) {
 
 		int sum = 0;
-		sum = number1 + number2;
+		sum = num1 + num2;
 		return sum;
 
 	}
